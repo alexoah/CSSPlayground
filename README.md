@@ -1,5 +1,6 @@
 # CSSPlayground: Alexoah CSS PlayGround
-All experiments on Cascading Style Sheet will be listed here. Thank you for your visit!
+Just for fun experiments on Cascading Style Sheet (CSS).  
+All experiments on CSS will be listed here. Thank you for your visit!
 
 ## List of CSS Experiments
 * [W3School-Exercises](./W3School-Exercises)
