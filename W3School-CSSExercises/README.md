@@ -27,3 +27,11 @@ W3Schools' Tutorial on CSS Background is available at: https://www.w3schools.com
 3. [Exercise 3](./CSS-Background/cssBackgroundE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_background3
 4. [Exercise 4](./CSS-Background/cssBackgroundE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_background4
 5. [Exercise 5](./CSS-Background/cssBackgroundE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_background5
+
+## [CSS Border](./CSS-Border): 4 exercises
+W3Schools' Tutorial on CSS Border is available at: https://www.w3schools.com/css/css_border.asp
+
+1. [Exercise 1](./CSS-Border/cssBorderE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_border1
+2. [Exercise 2](./CSS-Border/cssBorderE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_border2
+3. [Exercise 3](./CSS-Border/cssBorderE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_border3
+4. [Exercise 4](./CSS-Border/cssBorderE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_border4
