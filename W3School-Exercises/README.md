@@ -22,7 +22,6 @@ W3Schools' Tutorial on How To Add CSS is available at: https://www.w3schools.com
 ## [CSS Background](./CSS-Background): 5 exercises
 W3Schools' Tutorial on CSS Background is available at: https://www.w3schools.com/css/css_background.asp
 
-0. paper.gif img_tree.png gradient_bg_vertical.png: the external image files for this exercise
 1. [Exercise 1](./CSS-Background/cssBackgroundE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_background1
 2. [Exercise 2](./CSS-Background/cssBackgroundE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_background2
 3. [Exercise 3](./CSS-Background/cssBackgroundE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_background3
