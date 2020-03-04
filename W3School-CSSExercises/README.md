@@ -1,4 +1,4 @@
-# Introduction
+Introduction
 All these files are from doing [W3Schools' CSS Exercises](https://www.w3schools.com/css/exercise.asp)  
 Total: 138 Exercises.
 
@@ -43,3 +43,10 @@ W3Schools' Tutorial on CSS Margin is available at: https://www.w3schools.com/css
 2. [Exercise 2](./CSS-Margin/cssMarginE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_margin2
 3. [Exercise 3](./CSS-Margin/cssMarginE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_margin3
 4. [Exercise 4](./CSS-Margin/cssMarginE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_margin4
+
+## [CSS Padding](./CSS-Padding): 3 exercises
+W3Schools' Tutorial on CSS Padding is available at: https://www.w3schools.com/css/css_padding.asp
+
+1. [Exercise 1](./CSS-Padding/cssPaddingE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_padding1
+2. [Exercise 2](./CSS-Padding/cssPaddingE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_padding2
+3. [Exercise 3](./CSS-Padding/cssPaddingE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_padding3
