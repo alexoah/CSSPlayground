@@ -50,3 +50,9 @@ W3Schools' Tutorial on CSS Padding is available at: https://www.w3schools.com/cs
 1. [Exercise 1](./CSS-Padding/cssPaddingE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_padding1
 2. [Exercise 2](./CSS-Padding/cssPaddingE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_padding2
 3. [Exercise 3](./CSS-Padding/cssPaddingE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_padding3
+
+## [CSS Height/Width](./CSS-HeightWidth): 2 exercises
+W3Schools' Tutorial on CSS Height/Width is available at: https://www.w3schools.com/css/css_dimension.asp
+
+1. [Exercise 1](./CSS-HeightWidth/cssHeightWidthE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_dimension1
+2. [Exercise 2](./CSS-HeightWidth/cssHeightWidthE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_dimension2
