@@ -80,3 +80,12 @@ W3Schools' Tutorial on CSS Text is available at: https://www.w3schools.com/css/c
 3. [Exercise 3](./CSS-Text/cssTextE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_text3
 4. [Exercise 4](./CSS-Text/cssTextE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_text4
 5. [Exercise 5](./CSS-Text/cssTextE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_text5
+
+## [CSS Font](./CSS-Font): 5 exercises
+W3Schools' Tutorial on CSS Font is available at: https://www.w3schools.com/css/css_font.asp
+
+1. [Exercise 1](./CSS-Font/cssFontE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_font1
+2. [Exercise 2](./CSS-Font/cssFontE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_font2
+3. [Exercise 3](./CSS-Font/cssFontE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_font3
+4. [Exercise 4](./CSS-Font/cssFontE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_font4
+5. [Exercise 5](./CSS-Font/cssFontE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_font5
