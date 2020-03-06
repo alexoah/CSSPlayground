@@ -78,5 +78,5 @@ W3Schools' Tutorial on CSS Text is available at: https://www.w3schools.com/css/c
 1. [Exercise 1](./CSS-Text/cssTextE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_text1
 2. [Exercise 2](./CSS-Text/cssTextE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_text2
 3. [Exercise 3](./CSS-Text/cssTextE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_text3
-4. [Exercise 4](./CSS-Text/cssTextE4.html): answer for https://www.w4schools.com/css/exercise.asp?filename=exercise_text4
-5. [Exercise 5](./CSS-Text/cssTextE5.html): answer for https://www.w5schools.com/css/exercise.asp?filename=exercise_text5
+4. [Exercise 4](./CSS-Text/cssTextE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_text4
+5. [Exercise 5](./CSS-Text/cssTextE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_text5
