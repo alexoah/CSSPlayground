@@ -97,3 +97,59 @@ W3Schools' Tutorial on CSS Links is available at: https://www.w3schools.com/css/
 2. [Exercise 2](./CSS-Links/cssLinksE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_link2
 3. [Exercise 3](./CSS-Links/cssLinksE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_link3
 4. [Exercise 4](./CSS-Links/cssLinksE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_link4
+
+## [CSS Lists](./CSS-Lists): 4 exercises
+W3Schools' Tutorial on CSS Lists is available at: https://www.w3schools.com/css/css_list.asp
+
+1. [Exercise 1](./CSS-Lists/cssListsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_list1
+2. [Exercise 2](./CSS-Lists/cssListsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_list2
+3. [Exercise 3](./CSS-Lists/cssListsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_list3
+4. [Exercise 4](./CSS-Lists/cssListsE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_list4
+
+## [CSS Tables](./CSS-Tables): 6 exercises
+W3Schools' Tutorial on CSS Tables is available at: https://www.w3schools.com/css/css_table.asp
+
+1. [Exercise 1](./CSS-Tables/cssTablesE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_table1
+2. [Exercise 2](./CSS-Tables/cssTablesE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_table2
+3. [Exercise 3](./CSS-Tables/cssTablesE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_table3
+4. [Exercise 4](./CSS-Tables/cssTablesE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_table4
+5. [Exercise 5](./CSS-Tables/cssTablesE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_table5
+6. [Exercise 6](./CSS-Tables/cssTablesE6.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_table6
+
+## [CSS Display/Visibility](./CSS-DisplayVisibility): 4 exercises
+W3Schools' Tutorial on CSS Display/Visibility is available at: https://www.w3schools.com/css/css_display_visibility.asp
+
+1. [Exercise 1](./CSS-DisplayVisibility/cssDisplayVisibilityE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_display_visibility1
+2. [Exercise 2](./CSS-DisplayVisibility/cssDisplayVisibilityE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_display_visibility2
+3. [Exercise 3](./CSS-DisplayVisibility/cssDisplayVisibilityE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_display_visibility3
+4. [Exercise 4](./CSS-DisplayVisibility/cssDisplayVisibilityE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_display_visibility4
+
+## [CSS Positioning](./CSS-Positioning): 5 exercises
+W3Schools' Tutorial on CSS Positioning is available at: https://www.w3schools.com/css/css_positioning.asp
+
+1. [Exercise 1](./CSS-Positioning/cssPositioningE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_positioning1
+2. [Exercise 2](./CSS-Positioning/cssPositioningE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_positioning2
+3. [Exercise 3](./CSS-Positioning/cssPositioningE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_positioning3
+4. [Exercise 4](./CSS-Positioning/cssPositioningE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_positioning4
+5. [Exercise 5](./CSS-Positioning/cssPositioningE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_positioning5
+
+## [CSS Overflow](./CSS-Overflow): 3 exercises
+W3Schools' Tutorial on CSS Overflow is available at: https://www.w3schools.com/css/css_overflow.asp
+
+1. [Exercise 1](./CSS-Overflow/cssOverflowE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_overflow1
+2. [Exercise 2](./CSS-Overflow/cssOverflowE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_overflow2
+3. [Exercise 3](./CSS-Overflow/cssOverflowE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_overflow3
+
+## [CSS Align](./CSS-Align): 2 exercises
+W3Schools' Tutorial on CSS Align is available at: https://www.w3schools.com/css/css_align.asp
+
+1. [Exercise 1](./CSS-Align/cssAlignE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_align1
+2. [Exercise 2](./CSS-Align/cssAlignE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_align2
+
+## [CSS Combinators](./CSS-Combinators): 4 exercises
+W3Schools' Tutorial on CSS Combinators is available at: https://www.w3schools.com/css/css_combinators.asp
+
+1. [Exercise 1](./CSS-Combinators/cssCombinatorsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_combinators1
+2. [Exercise 2](./CSS-Combinators/cssCombinatorsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_combinators2
+3. [Exercise 3](./CSS-Combinators/cssCombinatorsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_combinators3
+4. [Exercise 4](./CSS-Combinators/cssCombinatorsE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_combinators4

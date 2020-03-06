@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+	div + p {
+		color: red;
+	}
+</style>
+</head>
+<body>
+<!-- 
+	question:
+	Change the color of <p> elements, that are the adjacent (immediately following) sibling of a <div> element, to "red".
+
+	from CSS Combinators: Exercise 3 ( https://www.w3schools.com/css/exercise.asp?filename=exercise_combinators3 )
+-->
+<div>
+  <p>This is a paragraph inside a div element.</p>
+  <p>This is another paragraph inside a div element.</p>
+  <span><p>This a paragraph inside a span element, inside a div element.</p></span>
+</div>
+
+<p>This is a paragraph, not inside a div element.</p>
+<p>This is another paragraph, not inside a div element.</p>
+</body>
+</html>
