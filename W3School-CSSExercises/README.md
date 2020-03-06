@@ -89,3 +89,11 @@ W3Schools' Tutorial on CSS Font is available at: https://www.w3schools.com/css/c
 3. [Exercise 3](./CSS-Font/cssFontE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_font3
 4. [Exercise 4](./CSS-Font/cssFontE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_font4
 5. [Exercise 5](./CSS-Font/cssFontE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_font5
+
+## [CSS Links](./CSS-Links): 4 exercises
+W3Schools' Tutorial on CSS Links is available at: https://www.w3schools.com/css/css_link.asp
+
+1. [Exercise 1](./CSS-Links/cssLinksE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_link1
+2. [Exercise 2](./CSS-Links/cssLinksE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_link2
+3. [Exercise 3](./CSS-Links/cssLinksE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_link3
+4. [Exercise 4](./CSS-Links/cssLinksE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_link4
