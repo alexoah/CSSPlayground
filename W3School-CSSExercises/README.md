@@ -153,3 +153,18 @@ W3Schools' Tutorial on CSS Combinators is available at: https://www.w3schools.co
 2. [Exercise 2](./CSS-Combinators/cssCombinatorsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_combinators2
 3. [Exercise 3](./CSS-Combinators/cssCombinatorsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_combinators3
 4. [Exercise 4](./CSS-Combinators/cssCombinatorsE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_combinators4
+
+## [CSS Pseudo-classes](./CSS-Pseudo_classes): 4 exercises
+W3Schools' Tutorial on CSS Pseudo-classes is available at: https://www.w3schools.com/css/css_pseudo_classes.asp
+
+1. [Exercise 1](./CSS-Pseudo_classes/cssPseudo_classesE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_classes1
+2. [Exercise 2](./CSS-Pseudo_classes/cssPseudo_classesE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_classes2
+3. [Exercise 3](./CSS-Pseudo_classes/cssPseudo_classesE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_classes3
+4. [Exercise 4](./CSS-Pseudo_classes/cssPseudo_classesE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_classes4
+
+## [CSS Pseudo-elements](./CSS-Pseudo_elements): 3 exercises
+W3Schools' Tutorial on CSS Pseudo-elements is available at: https://www.w3schools.com/css/css_pseudo_elements.asp
+
+1. [Exercise 1](./CSS-Pseudo_elements/cssPseudo_elementsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_elements1
+2. [Exercise 2](./CSS-Pseudo_elements/cssPseudo_elementsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_elements2
+3. [Exercise 3](./CSS-Pseudo_elements/cssPseudo_elementsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_elements3
