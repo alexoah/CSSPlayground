@@ -168,3 +168,10 @@ W3Schools' Tutorial on CSS Pseudo-elements is available at: https://www.w3school
 1. [Exercise 1](./CSS-Pseudo_elements/cssPseudo_elementsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_elements1
 2. [Exercise 2](./CSS-Pseudo_elements/cssPseudo_elementsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_elements2
 3. [Exercise 3](./CSS-Pseudo_elements/cssPseudo_elementsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_elements3
+
+## [CSS Opacity](./CSS-Opacity): 2 exercises
+W3Schools' Tutorial on CSS Opacity is available at: https://www.w3schools.com/css/css_image_transparency.asp
+
+1. [Exercise 1](./CSS-Opacity/cssOpacityE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_image_transparency1
+2. [Exercise 2](./CSS-Opacity/cssOpacityE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_image_transparency2
+
