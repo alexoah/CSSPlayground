@@ -196,3 +196,13 @@ W3Schools' Tutorial on CSS Border Images is available at: https://www.w3schools.
 
 1. [Exercise 1](./CSS-BorderImages/cssBorderImagesE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_border_images1
 2. [Exercise 2](./CSS-BorderImages/cssBorderImagesE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_border_images2
+
+## [CSS Backgrounds](./CSS-Backgrounds): 5 exercises
+W3Schools' Tutorial on CSS Backgrounds is available at: https://www.w3schools.com/css/css3_backgrounds.asp
+
+1. [Exercise 1](./CSS-Backgrounds/cssBackgroundsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds1
+2. [Exercise 2](./CSS-Backgrounds/cssBackgroundsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds2
+3. [Exercise 3](./CSS-Backgrounds/cssBackgroundsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds3
+4. [Exercise 4](./CSS-Backgrounds/cssBackgroundsE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds4
+5. [Exercise 5](./CSS-Backgrounds/cssBackgroundsE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds5
+
