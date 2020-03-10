@@ -175,7 +175,7 @@ W3Schools' Tutorial on CSS Opacity is available at: https://www.w3schools.com/cs
 1. [Exercise 1](./CSS-Opacity/cssOpacityE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_image_transparency1
 2. [Exercise 2](./CSS-Opacity/cssOpacityE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_image_transparency2
 
-## [CSS AttributeSelectors](./CSS-AttributeSelectors): 6 exercises
+## [CSS Attribute Selectors](./CSS-AttributeSelectors): 6 exercises
 W3Schools' Tutorial on CSS Attribute Selectors is available at: https://www.w3schools.com/css/css_attribute_selectors.asp
 
 1. [Exercise 1](./CSS-AttributeSelectors/cssAttributeSelectorsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors1
@@ -184,3 +184,9 @@ W3Schools' Tutorial on CSS Attribute Selectors is available at: https://www.w3sc
 4. [Exercise 4](./CSS-AttributeSelectors/cssAttributeSelectorsE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors4
 5. [Exercise 5](./CSS-AttributeSelectors/cssAttributeSelectorsE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors5
 6. [Exercise 6](./CSS-AttributeSelectors/cssAttributeSelectorsE6.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors6
+
+## [CSS Rounded Corners](./CSS-RoundedCorners): 2 exercises
+W3Schools' Tutorial on CSS Rounded Corners is available at: https://www.w3schools.com/css/css3_borders.asp
+
+1. [Exercise 1](./CSS-RoundedCorners/cssRoundedCornersE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_borders1
+2. [Exercise 2](./CSS-RoundedCorners/cssRoundedCornersE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_borders2
