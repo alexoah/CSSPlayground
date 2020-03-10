@@ -190,3 +190,9 @@ W3Schools' Tutorial on CSS Rounded Corners is available at: https://www.w3school
 
 1. [Exercise 1](./CSS-RoundedCorners/cssRoundedCornersE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_borders1
 2. [Exercise 2](./CSS-RoundedCorners/cssRoundedCornersE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_borders2
+
+## [CSS Border Images](./CSS-BorderImages): 2 exercises
+W3Schools' Tutorial on CSS Border Images is available at: https://www.w3schools.com/css/css3_border_images.asp
+
+1. [Exercise 1](./CSS-BorderImages/cssBorderImagesE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_border_images1
+2. [Exercise 2](./CSS-BorderImages/cssBorderImagesE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_border_images2
