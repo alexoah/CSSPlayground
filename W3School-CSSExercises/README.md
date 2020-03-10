@@ -206,3 +206,10 @@ W3Schools' Tutorial on CSS Backgrounds is available at: https://www.w3schools.co
 4. [Exercise 4](./CSS-Backgrounds/cssBackgroundsE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds4
 5. [Exercise 5](./CSS-Backgrounds/cssBackgroundsE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds5
 
+## [CSS Colors](./CSS-Colors): 4 exercises
+W3Schools' Tutorial on CSS Colors is available at: https://www.w3schools.com/css/css3_colors.asp
+
+1. [Exercise 1](./CSS-Colors/cssColorsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_colors1
+2. [Exercise 2](./CSS-Colors/cssColorsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_colors2
+3. [Exercise 3](./CSS-Colors/cssColorsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_colors3
+4. [Exercise 4](./CSS-Colors/cssColorsE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_colors4
