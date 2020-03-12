@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+div {
+	width: 100px;
+	height: 100px;
+	position: relative;
+	background-color: red;
+	animation-name: example;
+	animation-duration: 4s;
+}
+@keyframes example {
+	0% {
+		background-color: red;
+		left: 0px;
+		top: 0px;
+	}
+	25% {
+		background-color: blue;
+		left: 0px;
+		top: 200px;
+	}
+	50% {
+		background-color: green;
+		left: 200px;
+		top: 200px;
+	}
+	75% {
+		background-color: yellow;
+		left: 200px;
+		top: 0px;
+	}
+	100% {
+		background-color: red;
+		left: 0px;
+		top: 0px;
+	}
+}
+</style>
+</head>
+<body>
+<!-- 
+	question:
+	Add the following 5 steps to the animation "example" (using 0%, 25%, 50%, 75%, and 100%):
+    1. 0% - Set background color to "red", left position to "0px", top position to: "0px"
+    2. 25% - Set background color to "blue", left position to "0px", top position to: "200px"
+    3. 50% - Set background color to "green", left position to "200px", top position to: "200px"
+    4. 75% - Set background color to "yellow", left position to "200px", top position to: "0px"
+    5. 100% - Set background color to "red", left position to "0px", top position to: "0px"
+
+	from CSS Animations: Exercise 2 ( https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_animations2 )
+-->
+<div></div>
+</body>
+</html>
