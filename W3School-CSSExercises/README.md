@@ -281,6 +281,5 @@ W3Schools' Tutorial on CSS Animations is available at: https://www.w3schools.com
 5. [Exercise 5](./CSS-Animations/cssAnimationsE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_animations5
 6. [Exercise 6](./CSS-Animations/cssAnimationsE6.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_animations6
 
----  
-Created by  
-[Alexoah at GitHub](http://github.com/alexoah)
+##
+<sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>
