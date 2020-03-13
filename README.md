@@ -1,4 +1,4 @@
-# CSSPlayground: Alexoah CSS PlayGround
+# CSSPlayground: Alexoah's CSS PlayGround
 Just for fun experiments on Cascading Style Sheet (CSS).  
 All experiments on CSS will be listed here. Thank you for your visit!
 
