@@ -27,12 +27,10 @@ Total: 138 Exercises.
 | Answer | [A1](./CSS-Border/cssBorderE1.html) | [A2](./CSS-Border/cssBorderE2.html) | [A3](./CSS-Border/cssBorderE3.html) | [A4](./CSS-Border/cssBorderE4.html) |
 
 ## [CSS Margin](./CSS-Margin): 4 exercises
-W3Schools' Tutorial on CSS Margin is available at: https://www.w3schools.com/css/css_margin.asp
-
-1. [Exercise 1](./CSS-Margin/cssMarginE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_margin1
-2. [Exercise 2](./CSS-Margin/cssMarginE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_margin2
-3. [Exercise 3](./CSS-Margin/cssMarginE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_margin3
-4. [Exercise 4](./CSS-Margin/cssMarginE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_margin4
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_margin.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_margin1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_margin2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_margin3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_margin4) |
+| Answer | [A1](./CSS-Margin/cssMarginE1.html) | [A2](./CSS-Margin/cssMarginE2.html) | [A3](./CSS-Margin/cssMarginE3.html) | [A4](./CSS-Margin/cssMarginE4.html) |
 
 ## [CSS Padding](./CSS-Padding): 3 exercises
 W3Schools' Tutorial on CSS Padding is available at: https://www.w3schools.com/css/css_padding.asp
