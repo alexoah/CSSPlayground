@@ -21,12 +21,10 @@ Total: 138 Exercises.
 | Answer | [A1](./CSS-Background/cssBackgroundE1.html) | [A2](./CSS-Background/cssBackgroundE2.html) | [A3](./CSS-Background/cssBackgroundE3.html) | [A4](./CSS-Background/cssBackgroundE4.html) | [A5](./CSS-Background/cssBackgroundE5.html) |
 
 ## [CSS Border](./CSS-Border): 4 exercises
-W3Schools' Tutorial on CSS Border is available at: https://www.w3schools.com/css/css_border.asp
-
-1. [Exercise 1](./CSS-Border/cssBorderE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_border1
-2. [Exercise 2](./CSS-Border/cssBorderE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_border2
-3. [Exercise 3](./CSS-Border/cssBorderE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_border3
-4. [Exercise 4](./CSS-Border/cssBorderE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_border4
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_border.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_border1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_border2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_border3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_border4) |
+| Answer | [A1](./CSS-Border/cssBorderE1.html) | [A2](./CSS-Border/cssBorderE2.html) | [A3](./CSS-Border/cssBorderE3.html) | [A4](./CSS-Border/cssBorderE4.html) |
 
 ## [CSS Margin](./CSS-Margin): 4 exercises
 W3Schools' Tutorial on CSS Margin is available at: https://www.w3schools.com/css/css_margin.asp
