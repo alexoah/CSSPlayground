@@ -15,13 +15,10 @@ Total: 138 Exercises.
 | Answer | [A1](./CSS-HowTo/cssHowToE1.html) | [A2](./CSS-HowTo/cssHowToE2.html) | [A3](./CSS-HowTo/cssHowToE3.html) | [A4](./CSS-HowTo/cssHowToE4.html) | [mystyle.css](./CSS-HowTo/mystyle.css) |
 
 ## [CSS Background](./CSS-Background): 5 exercises
-W3Schools' Tutorial on CSS Background is available at: https://www.w3schools.com/css/css_background.asp
-
-1. [Exercise 1](./CSS-Background/cssBackgroundE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_background1
-2. [Exercise 2](./CSS-Background/cssBackgroundE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_background2
-3. [Exercise 3](./CSS-Background/cssBackgroundE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_background3
-4. [Exercise 4](./CSS-Background/cssBackgroundE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_background4
-5. [Exercise 5](./CSS-Background/cssBackgroundE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_background5
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_background.asp) | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_background1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_background2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_background3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_background4) | [Q5](https://www.w3schools.com/css/exercise.asp?filename=exercise_background5) |
+| Answer | [A1](./CSS-Background/cssBackgroundE1.html) | [A2](./CSS-Background/cssBackgroundE2.html) | [A3](./CSS-Background/cssBackgroundE3.html) | [A4](./CSS-Background/cssBackgroundE4.html) | (./CSS-Background/cssBackgroundE5.html) |
 
 ## [CSS Border](./CSS-Border): 4 exercises
 W3Schools' Tutorial on CSS Border is available at: https://www.w3schools.com/css/css_border.asp
