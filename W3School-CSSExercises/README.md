@@ -9,7 +9,7 @@ Total: 138 Exercises.
 | Answer | [A1](./CSS-Selectors/cssSelectorsE1.html) | [A2](./CSS-Selectors/cssSelectorsE2.html) | [A3](./CSS-Selectors/cssSelectorsE3.html) | [A4](./CSS-Selectors/cssSelectorsE4.html) |
 
 ## [CSS How To](./CSS-HowTo): 4 exercises
-| W3Schools [Tutorial](https://www.w3schools.com/css/css_howto.asp) | 1 | 2 | 3 | 4 | external file |
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_howto.asp) | 1 | 2 | 3 | 4 | additional file |
 | --- | --- | --- | --- | --- | --- |
 | Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_howto1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_howto2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_howto3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_howto4) ||
 | Answer | [A1](./CSS-HowTo/cssHowToE1.html) | [A2](./CSS-HowTo/cssHowToE2.html) | [A3](./CSS-HowTo/cssHowToE3.html) | [A4](./CSS-HowTo/cssHowToE4.html) | [mystyle.css](./CSS-HowTo/mystyle.css) |
