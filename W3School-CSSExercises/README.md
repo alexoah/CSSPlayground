@@ -45,12 +45,10 @@ Total: 138 Exercises.
 | Answer | [A1](./CSS-HeightWidth/cssHeightWidthE1.html) | [A2](./CSS-HeightWidth/cssHeightWidthE2.html) |
 
 ## [CSS Box Model](./CSS-BoxModel): 4 exercises
-W3Schools' Tutorial on CSS Box Model is available at: https://www.w3schools.com/css/css_boxmodel.asp
-
-1. [Exercise 1](./CSS-BoxModel/cssBoxModelE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_boxmodel1
-2. [Exercise 2](./CSS-BoxModel/cssBoxModelE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_boxmodel2
-3. [Exercise 3](./CSS-BoxModel/cssBoxModelE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_boxmodel3
-4. [Exercise 4](./CSS-BoxModel/cssBoxModelE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_boxmodel4
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_boxmodel.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_boxmodel1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_boxmodel2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_boxmodel3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_boxmodel4) |
+| Answer | [A1](./CSS-BoxModel/cssBoxModelE1.html) | [A2](./CSS-BoxModel/cssBoxModelE2.html) | [A3](./CSS-BoxModel/cssBoxModelE3.html) | [A4](./CSS-BoxModel/cssBoxModelE4.html) |
 
 ## [CSS Outline](./CSS-Outline): 3 exercises
 W3Schools' Tutorial on CSS Outline is available at: https://www.w3schools.com/css/css_outline.asp
