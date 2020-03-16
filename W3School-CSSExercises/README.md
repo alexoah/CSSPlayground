@@ -153,69 +153,52 @@ Total: 138 Exercises.
 | Answer | [A1](./CSS-BorderImages/cssBorderImagesE1.html) | [A2](./CSS-BorderImages/cssBorderImagesE2.html) |
 
 ## [CSS Backgrounds](./CSS-Backgrounds): 5 exercises
-W3Schools' Tutorial on CSS Backgrounds is available at: https://www.w3schools.com/css/css3_backgrounds.asp
-
-1. [Exercise 1](./CSS-Backgrounds/cssBackgroundsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds1
-2. [Exercise 2](./CSS-Backgrounds/cssBackgroundsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds2
-3. [Exercise 3](./CSS-Backgrounds/cssBackgroundsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds3
-4. [Exercise 4](./CSS-Backgrounds/cssBackgroundsE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds4
-5. [Exercise 5](./CSS-Backgrounds/cssBackgroundsE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds5
+| W3Schools [Tutorial](https://www.w3schools.com/css/css3_backgrounds.asp) | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds4) | [Q5](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_backgrounds5) |
+| Answer | [A1](./CSS-Backgrounds/cssBackgroundsE1.html) | [A2](./CSS-Backgrounds/cssBackgroundsE2.html) | [A3](./CSS-Backgrounds/cssBackgroundsE3.html) | [A4](./CSS-Backgrounds/cssBackgroundsE4.html) | [A5](./CSS-Backgrounds/cssBackgroundsE5.html) |
 
 ## [CSS Colors](./CSS-Colors): 4 exercises
-W3Schools' Tutorial on CSS Colors is available at: https://www.w3schools.com/css/css3_colors.asp
-
-1. [Exercise 1](./CSS-Colors/cssColorsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_colors1
-2. [Exercise 2](./CSS-Colors/cssColorsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_colors2
-3. [Exercise 3](./CSS-Colors/cssColorsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_colors3
-4. [Exercise 4](./CSS-Colors/cssColorsE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_colors4
+| W3Schools [Tutorial](https://www.w3schools.com/css/css3_colors.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_colors1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_colors2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_colors3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_colors4) |
+| Answer | [A1](./CSS-Colors/cssColorsE1.html) | [A2](./CSS-Colors/cssColorsE2.html) | [A3](./CSS-Colors/cssColorsE3.html) | [A4](./CSS-Colors/cssColorsE4.html) |
 
 ## [CSS Gradients](./CSS-Gradients): 7 exercises
-W3Schools' Tutorial on CSS Gradients is available at: https://www.w3schools.com/css/css3_gradients.asp
-
-1. [Exercise 1](./CSS-Gradients/cssGradientsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_gradients1
-2. [Exercise 2](./CSS-Gradients/cssGradientsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_gradients2
-3. [Exercise 3](./CSS-Gradients/cssGradientsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_gradients3
-4. [Exercise 4](./CSS-Gradients/cssGradientsE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_gradients4
-5. [Exercise 5](./CSS-Gradients/cssGradientsE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_gradients5
-6. [Exercise 6](./CSS-Gradients/cssGradientsE6.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_gradients6
-7. [Exercise 7](./CSS-Gradients/cssGradientsE7.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_gradients7
+| W3Schools [Tutorial](https://www.w3schools.com/css/css3_gradients.asp) | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_gradients1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_gradients2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_gradients3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_gradients4) | [Q5](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_gradients5) | [Q6](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_gradients6) | [Q7](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_gradients7) |
+| Answer | [A1](./CSS-Gradients/cssGradientsE1.html) | [A2](./CSS-Gradients/cssGradientsE2.html) | [A3](./CSS-Gradients/cssGradientsE3.html) | [A4](./CSS-Gradients/cssGradientsE4.html) | [A5](./CSS-Gradients/cssGradientsE5.html) | [A6](./CSS-Gradients/cssGradientsE6.html) | [A7](./CSS-Gradients/cssGradientsE7.html) |
 
 ## [CSS Shadow Effects](./CSS-ShadowEffects): 5 exercises
-W3Schools' Tutorial on CSS Shadow Effects is available at: https://www.w3schools.com/css/css3_shadows.asp
-
-1. [Exercise 1](./CSS-ShadowEffects/cssShadowEffectsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_shadows1
-2. [Exercise 2](./CSS-ShadowEffects/cssShadowEffectsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_shadows2
-3. [Exercise 3](./CSS-ShadowEffects/cssShadowEffectsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_shadows3
-4. [Exercise 4](./CSS-ShadowEffects/cssShadowEffectsE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_shadows4
-5. [Exercise 5](./CSS-ShadowEffects/cssShadowEffectsE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_shadows5
+| W3Schools [Tutorial](https://www.w3schools.com/css/css3_shadows.asp) | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_shadows1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_shadows2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_shadows3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_shadows4) | [Q5](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_shadows5) |
+| Answer | [A1](./CSS-ShadowEffects/cssShadowEffectsE1.html) | [A2](./CSS-ShadowEffects/cssShadowEffectsE2.html) | [A3](./CSS-ShadowEffects/cssShadowEffectsE3.html) | [A4](./CSS-ShadowEffects/cssShadowEffectsE4.html) | [A5](./CSS-ShadowEffects/cssShadowEffectsE5.html) |
 
 ## [CSS Text Effects](./CSS-TextEffects): 3 exercises
-W3Schools' Tutorial on CSS Text Effects is available at: https://www.w3schools.com/css/css3_text_effects.asp
-
-1. [Exercise 1](./CSS-TextEffects/cssTextEffectsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_text_effects1
-2. [Exercise 2](./CSS-TextEffects/cssTextEffectsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_text_effects2
-3. [Exercise 3](./CSS-TextEffects/cssTextEffectsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_text_effects3
+| W3Schools [Tutorial](https://www.w3schools.com/css/css3_text_effects.asp) | 1 | 2 | 3 |
+| --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_text_effects1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_text_effects2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_text_effects3) |
+| Answer | [A1](./CSS-TextEffects/cssTextEffectsE1.html) | [A2](./CSS-TextEffects/cssTextEffectsE2.html) | [A3](./CSS-TextEffects/cssTextEffectsE3.html) |
 
 ## [CSS Web Fonts](./CSS-WebFonts): 2 exercises
-W3Schools' Tutorial on CSS Web Fonts is available at: https://www.w3schools.com/css/css3_fonts.asp
-
-1. [Exercise 1](./CSS-WebFonts/cssWebFontsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_fonts1
-2. [Exercise 2](./CSS-WebFonts/cssWebFontsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_fonts2
+| W3Schools [Tutorial](https://www.w3schools.com/css/css3_fonts.asp) | 1 | 2 |
+| --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_fonts1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_fonts2) |
+| Answer | [A1](./CSS-WebFonts/cssWebFontsE1.html) | [A2](./CSS-WebFonts/cssWebFontsE2.html) |
 
 ## [CSS 2D Transforms](./CSS-2DTransforms): 4 exercises
-W3Schools' Tutorial on CSS 2D Transforms is available at: https://www.w3schools.com/css/css3_2dtransforms.asp
-
-1. [Exercise 1](./CSS-2DTransforms/css2DTransformsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_2dtransforms1
-2. [Exercise 2](./CSS-2DTransforms/css2DTransformsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_2dtransforms2
-3. [Exercise 3](./CSS-2DTransforms/css2DTransformsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_2dtransforms3
-4. [Exercise 4](./CSS-2DTransforms/css2DTransformsE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_2dtransforms4
+| W3Schools [Tutorial](https://www.w3schools.com/css/css3_2dtransforms.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_2dtransforms1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_2dtransforms2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_2dtransforms3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_2dtransforms4) |
+| Answer | [A1](./CSS-2DTransforms/css2DTransformsE1.html) | [A2](./CSS-2DTransforms/css2DTransformsE2.html) | [A3](./CSS-2DTransforms/css2DTransformsE3.html) | [A4](./CSS-2DTransforms/css2DTransformsE4.html) |
 
 ## [CSS 3D Transforms](./CSS-3DTransforms): 3 exercises
-W3Schools' Tutorial on CSS 3D Transforms is available at: https://www.w3schools.com/css/css3_3dtransforms.asp
-
-1. [Exercise 1](./CSS-3DTransforms/css3DTransformsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_3dtransforms1
-2. [Exercise 2](./CSS-3DTransforms/css3DTransformsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_3dtransforms2
-3. [Exercise 3](./CSS-3DTransforms/css3DTransformsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_3dtransforms3
+| W3Schools [Tutorial](https://www.w3schools.com/css/css3_3dtransforms.asp) | 1 | 2 | 3 |
+| --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_3dtransforms1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_3dtransforms2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_3dtransforms3) |
+| Answer | [A1](./CSS-3DTransforms/css3DTransformsE1.html) | [A2](./CSS-3DTransforms/css3DTransformsE2.html) | [A3](./CSS-3DTransforms/css3DTransformsE3.html) |
 
 ## [CSS Transitions](./CSS-Transitions): 5 exercises
 W3Schools' Tutorial on CSS Transitions is available at: https://www.w3schools.com/css/css3_transitions.asp
