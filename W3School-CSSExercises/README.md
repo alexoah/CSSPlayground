@@ -123,39 +123,34 @@ Total: 138 Exercises.
 | Answer | [A1](./CSS-Pseudo_classes/cssPseudo_classesE1.html) | [A2](./CSS-Pseudo_classes/cssPseudo_classesE2.html) | [A3](./CSS-Pseudo_classes/cssPseudo_classesE3.html) | [A4](./CSS-Pseudo_classes/cssPseudo_classesE4.html) |
 
 ## [CSS Pseudo-elements](./CSS-Pseudo_elements): 3 exercises
-W3Schools' Tutorial on CSS Pseudo-elements is available at: https://www.w3schools.com/css/css_pseudo_elements.asp
-
-1. [Exercise 1](./CSS-Pseudo_elements/cssPseudo_elementsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_elements1
-2. [Exercise 2](./CSS-Pseudo_elements/cssPseudo_elementsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_elements2
-3. [Exercise 3](./CSS-Pseudo_elements/cssPseudo_elementsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_elements3
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_pseudo_elements.asp) | 1 | 2 | 3 |
+| --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_elements1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_elements2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_elements3) |
+| Answer | [A1](./CSS-Pseudo_elements/cssPseudo_elementsE1.html) | [A2](./CSS-Pseudo_elements/cssPseudo_elementsE2.html) | [A3](./CSS-Pseudo_elements/cssPseudo_elementsE3.html) |
 
 ## [CSS Opacity](./CSS-Opacity): 2 exercises
-W3Schools' Tutorial on CSS Opacity is available at: https://www.w3schools.com/css/css_image_transparency.asp
-
-1. [Exercise 1](./CSS-Opacity/cssOpacityE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_image_transparency1
-2. [Exercise 2](./CSS-Opacity/cssOpacityE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_image_transparency2
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_image_transparency.asp) | 1 | 2 |
+| --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_image_transparency1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_image_transparency2) |
+| Answer | [A1](./CSS-Opacity/cssOpacityE1.html) | [A2](./CSS-Opacity/cssOpacityE2.html) |
 
 ## [CSS Attribute Selectors](./CSS-AttributeSelectors): 6 exercises
-W3Schools' Tutorial on CSS Attribute Selectors is available at: https://www.w3schools.com/css/css_attribute_selectors.asp
-
-1. [Exercise 1](./CSS-AttributeSelectors/cssAttributeSelectorsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors1
-2. [Exercise 2](./CSS-AttributeSelectors/cssAttributeSelectorsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors2
-3. [Exercise 3](./CSS-AttributeSelectors/cssAttributeSelectorsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors3
-4. [Exercise 4](./CSS-AttributeSelectors/cssAttributeSelectorsE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors4
-5. [Exercise 5](./CSS-AttributeSelectors/cssAttributeSelectorsE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors5
-6. [Exercise 6](./CSS-AttributeSelectors/cssAttributeSelectorsE6.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors6
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_attribute_selectors.asp) | 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors4) | [Q5](https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors5) | [Q6](https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors6) |
+| Answer | [A1](./CSS-AttributeSelectors/cssAttributeSelectorsE1.html) | [A2](./CSS-AttributeSelectors/cssAttributeSelectorsE2.html) | [A3](./CSS-AttributeSelectors/cssAttributeSelectorsE3.html) | [A4](./CSS-AttributeSelectors/cssAttributeSelectorsE4.html) | [A5](./CSS-AttributeSelectors/cssAttributeSelectorsE5.html) | [A6](./CSS-AttributeSelectors/cssAttributeSelectorsE6.html) |
 
 ## [CSS Rounded Corners](./CSS-RoundedCorners): 2 exercises
-W3Schools' Tutorial on CSS Rounded Corners is available at: https://www.w3schools.com/css/css3_borders.asp
-
-1. [Exercise 1](./CSS-RoundedCorners/cssRoundedCornersE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_borders1
-2. [Exercise 2](./CSS-RoundedCorners/cssRoundedCornersE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_borders2
+| W3Schools [Tutorial](https://www.w3schools.com/css/css3_borders.asp) | 1 | 2 |
+| --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_borders1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_borders2) |
+| Answer | [A1](./CSS-RoundedCorners/cssRoundedCornersE1.html) | [A2](./CSS-RoundedCorners/cssRoundedCornersE2.html) |
 
 ## [CSS Border Images](./CSS-BorderImages): 2 exercises
-W3Schools' Tutorial on CSS Border Images is available at: https://www.w3schools.com/css/css3_border_images.asp
-
-1. [Exercise 1](./CSS-BorderImages/cssBorderImagesE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_border_images1
-2. [Exercise 2](./CSS-BorderImages/cssBorderImagesE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_border_images2
+| W3Schools [Tutorial](https://www.w3schools.com/css/css3_border_images.asp) | 1 | 2 |
+| --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_border_images1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_css3_border_images2) |
+| Answer | [A1](./CSS-BorderImages/cssBorderImagesE1.html) | [A2](./CSS-BorderImages/cssBorderImagesE2.html) |
 
 ## [CSS Backgrounds](./CSS-Backgrounds): 5 exercises
 W3Schools' Tutorial on CSS Backgrounds is available at: https://www.w3schools.com/css/css3_backgrounds.asp
