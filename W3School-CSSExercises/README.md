@@ -87,50 +87,40 @@ Total: 138 Exercises.
 | Answer | [A1](./CSS-Tables/cssTablesE1.html) | [A2](./CSS-Tables/cssTablesE2.html) | [A3](./CSS-Tables/cssTablesE3.html) | [A4](./CSS-Tables/cssTablesE4.html) | [A5](./CSS-Tables/cssTablesE5.html) | [A6](./CSS-Tables/cssTablesE6.html) |
 
 ## [CSS Display/Visibility](./CSS-DisplayVisibility): 4 exercises
-W3Schools' Tutorial on CSS Display/Visibility is available at: https://www.w3schools.com/css/css_display_visibility.asp
-
-1. [Exercise 1](./CSS-DisplayVisibility/cssDisplayVisibilityE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_display_visibility1
-2. [Exercise 2](./CSS-DisplayVisibility/cssDisplayVisibilityE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_display_visibility2
-3. [Exercise 3](./CSS-DisplayVisibility/cssDisplayVisibilityE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_display_visibility3
-4. [Exercise 4](./CSS-DisplayVisibility/cssDisplayVisibilityE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_display_visibility4
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_display_visibility.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_display_visibility1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_display_visibility2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_display_visibility3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_display_visibility4) |
+| Answer | [A1](./CSS-DisplayVisibility/cssDisplayVisibilityE1.html) | [A2](./CSS-DisplayVisibility/cssDisplayVisibilityE2.html) | [A3](./CSS-DisplayVisibility/cssDisplayVisibilityE3.html) | [A4](./CSS-DisplayVisibility/cssDisplayVisibilityE4.html) |
 
 ## [CSS Positioning](./CSS-Positioning): 5 exercises
-W3Schools' Tutorial on CSS Positioning is available at: https://www.w3schools.com/css/css_positioning.asp
-
-1. [Exercise 1](./CSS-Positioning/cssPositioningE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_positioning1
-2. [Exercise 2](./CSS-Positioning/cssPositioningE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_positioning2
-3. [Exercise 3](./CSS-Positioning/cssPositioningE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_positioning3
-4. [Exercise 4](./CSS-Positioning/cssPositioningE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_positioning4
-5. [Exercise 5](./CSS-Positioning/cssPositioningE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_positioning5
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_positioning.asp) | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_positioning1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_positioning2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_positioning3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_positioning4) | [Q5](https://www.w3schools.com/css/exercise.asp?filename=exercise_positioning5) |
+| Answer | [A1](./CSS-Positioning/cssPositioningE1.html) | [A2](./CSS-Positioning/cssPositioningE2.html) | [A3](./CSS-Positioning/cssPositioningE3.html) | [A4](./CSS-Positioning/cssPositioningE4.html) | [A5](./CSS-Positioning/cssPositioningE5.html) |
 
 ## [CSS Overflow](./CSS-Overflow): 3 exercises
-W3Schools' Tutorial on CSS Overflow is available at: https://www.w3schools.com/css/css_overflow.asp
-
-1. [Exercise 1](./CSS-Overflow/cssOverflowE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_overflow1
-2. [Exercise 2](./CSS-Overflow/cssOverflowE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_overflow2
-3. [Exercise 3](./CSS-Overflow/cssOverflowE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_overflow3
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_overflow.asp) | 1 | 2 | 3 |
+| --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_overflow1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_overflow2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_overflow3) |
+| Answer | [A1](./CSS-Overflow/cssOverflowE1.html) | [A2](./CSS-Overflow/cssOverflowE2.html) | [A3](./CSS-Overflow/cssOverflowE3.html) |
 
 ## [CSS Align](./CSS-Align): 2 exercises
-W3Schools' Tutorial on CSS Align is available at: https://www.w3schools.com/css/css_align.asp
-
-1. [Exercise 1](./CSS-Align/cssAlignE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_align1
-2. [Exercise 2](./CSS-Align/cssAlignE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_align2
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_align.asp) | 1 | 2 |
+| --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_align1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_align2) |
+| Answer | [A1](./CSS-Align/cssAlignE1.html) | [A2](./CSS-Align/cssAlignE2.html) |
 
 ## [CSS Combinators](./CSS-Combinators): 4 exercises
-W3Schools' Tutorial on CSS Combinators is available at: https://www.w3schools.com/css/css_combinators.asp
-
-1. [Exercise 1](./CSS-Combinators/cssCombinatorsE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_combinators1
-2. [Exercise 2](./CSS-Combinators/cssCombinatorsE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_combinators2
-3. [Exercise 3](./CSS-Combinators/cssCombinatorsE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_combinators3
-4. [Exercise 4](./CSS-Combinators/cssCombinatorsE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_combinators4
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_combinators.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_combinators1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_combinators2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_combinators3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_combinators4) |
+| Answer | [A1](./CSS-Combinators/cssCombinatorsE1.html) | [A2](./CSS-Combinators/cssCombinatorsE2.html) | [A3](./CSS-Combinators/cssCombinatorsE3.html) | [A4](./CSS-Combinators/cssCombinatorsE4.html) |
 
 ## [CSS Pseudo-classes](./CSS-Pseudo_classes): 4 exercises
-W3Schools' Tutorial on CSS Pseudo-classes is available at: https://www.w3schools.com/css/css_pseudo_classes.asp
-
-1. [Exercise 1](./CSS-Pseudo_classes/cssPseudo_classesE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_classes1
-2. [Exercise 2](./CSS-Pseudo_classes/cssPseudo_classesE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_classes2
-3. [Exercise 3](./CSS-Pseudo_classes/cssPseudo_classesE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_classes3
-4. [Exercise 4](./CSS-Pseudo_classes/cssPseudo_classesE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_classes4
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_pseudo_classes.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_classes1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_classes2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_classes3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_pseudo_classes4) |
+| Answer | [A1](./CSS-Pseudo_classes/cssPseudo_classesE1.html) | [A2](./CSS-Pseudo_classes/cssPseudo_classesE2.html) | [A3](./CSS-Pseudo_classes/cssPseudo_classesE3.html) | [A4](./CSS-Pseudo_classes/cssPseudo_classesE4.html) |
 
 ## [CSS Pseudo-elements](./CSS-Pseudo_elements): 3 exercises
 W3Schools' Tutorial on CSS Pseudo-elements is available at: https://www.w3schools.com/css/css_pseudo_elements.asp
