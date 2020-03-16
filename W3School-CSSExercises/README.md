@@ -51,37 +51,28 @@ Total: 138 Exercises.
 | Answer | [A1](./CSS-BoxModel/cssBoxModelE1.html) | [A2](./CSS-BoxModel/cssBoxModelE2.html) | [A3](./CSS-BoxModel/cssBoxModelE3.html) | [A4](./CSS-BoxModel/cssBoxModelE4.html) |
 
 ## [CSS Outline](./CSS-Outline): 3 exercises
-W3Schools' Tutorial on CSS Outline is available at: https://www.w3schools.com/css/css_outline.asp
-
-1. [Exercise 1](./CSS-Outline/cssOutlineE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_outline1
-2. [Exercise 2](./CSS-Outline/cssOutlineE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_outline2
-3. [Exercise 3](./CSS-Outline/cssOutlineE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_outline3
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_outline.asp) | 1 | 2 | 3 |
+| --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_outline1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_outline2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_outline3) |
+| Answer | [A1](./CSS-Outline/cssOutlineE1.html) | [A2](./CSS-Outline/cssOutlineE2.html) | [A3](./CSS-Outline/cssOutlineE3.html) |
 
 ## [CSS Text](./CSS-Text): 5 exercises
-W3Schools' Tutorial on CSS Text is available at: https://www.w3schools.com/css/css_text.asp
-
-1. [Exercise 1](./CSS-Text/cssTextE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_text1
-2. [Exercise 2](./CSS-Text/cssTextE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_text2
-3. [Exercise 3](./CSS-Text/cssTextE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_text3
-4. [Exercise 4](./CSS-Text/cssTextE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_text4
-5. [Exercise 5](./CSS-Text/cssTextE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_text5
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_text.asp) | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_text1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_text2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_text3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_text4) | [Q5](https://www.w3schools.com/css/exercise.asp?filename=exercise_text5) |
+| Answer | [A1](./CSS-Text/cssTextE1.html) | [A2](./CSS-Text/cssTextE2.html) | [A3](./CSS-Text/cssTextE3.html) | [A4](./CSS-Text/cssTextE4.html) | [A5](./CSS-Text/cssTextE5.html) |
 
 ## [CSS Font](./CSS-Font): 5 exercises
-W3Schools' Tutorial on CSS Font is available at: https://www.w3schools.com/css/css_font.asp
-
-1. [Exercise 1](./CSS-Font/cssFontE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_font1
-2. [Exercise 2](./CSS-Font/cssFontE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_font2
-3. [Exercise 3](./CSS-Font/cssFontE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_font3
-4. [Exercise 4](./CSS-Font/cssFontE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_font4
-5. [Exercise 5](./CSS-Font/cssFontE5.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_font5
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_font.asp) | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_font1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_font2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_font3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_font4) | [Q5](https://www.w3schools.com/css/exercise.asp?filename=exercise_font5) |
+| Answer | [A1](./CSS-Font/cssFontE1.html) | [A2](./CSS-Font/cssFontE2.html) | [A3](./CSS-Font/cssFontE3.html) | [A4](./CSS-Font/cssFontE4.html) | [A5](./CSS-Font/cssFontE5.html) |
 
 ## [CSS Links](./CSS-Links): 4 exercises
-W3Schools' Tutorial on CSS Links is available at: https://www.w3schools.com/css/css_link.asp
-
-1. [Exercise 1](./CSS-Links/cssLinksE1.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_link1
-2. [Exercise 2](./CSS-Links/cssLinksE2.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_link2
-3. [Exercise 3](./CSS-Links/cssLinksE3.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_link3
-4. [Exercise 4](./CSS-Links/cssLinksE4.html): answer for https://www.w3schools.com/css/exercise.asp?filename=exercise_link4
+| W3Schools [Tutorial](https://www.w3schools.com/css/css_link.asp) | 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- | --- |
+| Exercises | [Q1](https://www.w3schools.com/css/exercise.asp?filename=exercise_link1) | [Q2](https://www.w3schools.com/css/exercise.asp?filename=exercise_link2) | [Q3](https://www.w3schools.com/css/exercise.asp?filename=exercise_link3) | [Q4](https://www.w3schools.com/css/exercise.asp?filename=exercise_link4) |
+| Answer | [A1](./CSS-Links/cssLinksE1.html) | [A2](./CSS-Links/cssLinksE2.html) | [A3](./CSS-Links/cssLinksE3.html) | [A4](./CSS-Links/cssLinksE4.html) |
 
 ## [CSS Lists](./CSS-Lists): 4 exercises
 W3Schools' Tutorial on CSS Lists is available at: https://www.w3schools.com/css/css_list.asp
