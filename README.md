@@ -1,4 +1,4 @@
-# Alexoah's CSS PlayGround
+# Alexoah's CSS Playground
 A collection of Cascading Style Sheet (CSS) + HTML exercises.  
 Thank you for your visit!
 
