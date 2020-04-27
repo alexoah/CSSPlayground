@@ -8,6 +8,7 @@ Thank you for your visit!
 ## Related Playgrounds
 * [ [HTML Playground](https://github.com/alexoah/HTMLPlayground) ] - [ [Bootstrap Playground](https://github.com/alexoah/BSPlayground) ] 
 * [ [JavaScript Playground](https://github.com/alexoah/JSPlayground) ] - [ [jQuery Playground](https://github.com/alexoah/jQPlayground) ]
+* [ [PHP Playground](https://github.com/alexoah/PHPPlayground) ] 
 
 ##
 <sup>:octocat: Created by [@alexoah](http://github.com/alexoah) at GitHub.</sup>
